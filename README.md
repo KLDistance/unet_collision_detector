@@ -2,7 +2,7 @@
 
 Developed by Yunong Wang
 
-This script is designed to automate the localization of partical collision over micro- / nano-electrodes in Array Micro-cell Method (AMCM) setup invented by Sasha E. Alden et al. (S. E. Alden, N. P. Siepser, J. A. Patterson, G. S. Jagdale, M. Choi, L. A. Baker, ChemElectroChem 2020, 7, 1084.) by applying an adapted U-Net deep learning model.
+This script is designed to automate the localization of partical collision chronoamperometric events over micro- / nano-electrodes in Array Micro-cell Method (AMCM) setup invented by Sasha E. Alden et al. (S. E. Alden, N. P. Siepser, J. A. Patterson, G. S. Jagdale, M. Choi, L. A. Baker, ChemElectroChem 2020, 7, 1084.) by applying an adapted U-Net deep learning model.
 
 ## Usage
 
